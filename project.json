@@ -1,0 +1,21 @@
+{
+  "id": 118,
+  "title": "Seedling Nursery Monitor Animal Intrusion Alarm",
+  "repository_slug": "seedling-nursery-monitor-animal-intrusion-alarm",
+  "category": "Smart Agriculture",
+  "platform": "LoRa + Arduino",
+  "platform_family": "arduino",
+  "difficulty": "Advanced",
+  "estimated_hours": 40,
+  "connectivity": "LoRa",
+  "components": [
+    "solar charger",
+    "pH sensor",
+    "load cell"
+  ],
+  "scope": "Build a smart agriculture prototype that uses solar charger, pH sensor, load cell to detect and report animal movement. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Animal Intrusion Alarm demonstration with repeatable test steps",
+  "mode": "threshold_alert",
+  "entrypoint": "firmware/seedling-nursery-monitor-animal-intrusion-alarm/seedling-nursery-monitor-animal-intrusion-alarm.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
